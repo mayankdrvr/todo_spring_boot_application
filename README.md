@@ -1,25 +1,41 @@
-Project Description:
+# Spring Boot Full-Stack Web Application
 
-This is a full-stack web application built using Spring Boot as the backend framework and Thymeleaf for server-side rendering of dynamic web pages. The project leverages JPA with Hibernate for object-relational mapping, enabling seamless interaction with a MySQL database for persistent data storage.
+A **full-stack web application** built using **Spring Boot**, **JPA/Hibernate**, **MySQL**, **Lombok**, **Thymeleaf**, **Bootstrap**, and **CSS**, developed in **IntelliJ IDEA**. The project demonstrates a robust backend with a responsive, modern front-end interface.
 
-Key Features and Technologies:
+## Features
 
-Spring Boot: Provides a robust and scalable backend framework with embedded server support.
+- **Spring Boot:** Provides a scalable backend framework with embedded server support.  
+- **JPA & Hibernate:** Simplifies database operations using entity mapping and repository patterns.  
+- **MySQL:** Relational database for persistent storage of application data.  
+- **Lombok:** Reduces boilerplate code with annotations like `@Getter`, `@Setter`, and `@Builder`.  
+- **Thymeleaf:** Template engine for dynamic HTML page rendering on the server side.  
+- **Bootstrap & CSS:** Responsive and modern UI components for a clean, user-friendly interface.  
 
-JPA & Hibernate: Simplifies database operations using entity mapping and CRUD repository patterns.
+## Functionality
 
-MySQL: Serves as the relational database for storing and retrieving application data efficiently.
+- **CRUD Operations:** Create, read, update, and delete data entries.  
+- **Responsive UI:** Works seamlessly across devices with a modern interface.  
+- **Server-side Validation:** Ensures data integrity before persisting to the database.  
+- **Template-based Routing:** Clean navigation with Thymeleaf templates.  
 
-Lombok: Reduces boilerplate code with annotations like @Getter, @Setter, and @Builder.
+## Use Cases
 
-Thymeleaf: Enables dynamic HTML page rendering with template-based server-side views.
+This project can be used as a foundation for:
 
-Bootstrap & CSS: Offers responsive and modern UI components to create a clean, user-friendly interface.
+- Inventory Management Systems  
+- Task Management Apps  
+- Any data-driven web application requiring a modern front-end and robust backend  
 
-IntelliJ IDEA: Used as the primary development IDE for coding, debugging, and project management.
+## Development Environment
 
-Functionality Overview:
-The application supports CRUD operations, allowing users to create, read, update, and delete data entries. It features a responsive interface that works seamlessly across devices, with server-side validation, clean routing, and well-structured templates for enhanced user experience.
+- **IDE:** IntelliJ IDEA  
+- **Backend:** Spring Boot  
+- **Frontend:** Thymeleaf, Bootstrap, CSS  
+- **Database:** MySQL  
+- **Other Tools:** Lombok  
 
-Use Cases:
-This project can serve as a foundation for inventory management systems, task management apps, or any data-driven web application that requires a combination of modern UI and robust backend capabilities.
+## Getting Started
+
+1. Clone the repository:  
+   ```bash
+   git clone <repository-url>
