@@ -1,6 +1,6 @@
-# Spring Boot Full-Stack Web Application
+# ToDo List Spring Boot Full-Stack Web Application
 
-A **full-stack web application** built using **Spring Boot**, **JPA/Hibernate**, **MySQL**, **Lombok**, **Thymeleaf**, **Bootstrap**, and **CSS**, developed in **IntelliJ IDEA**. The project demonstrates a robust backend with a responsive, modern front-end interface.
+ToDo **full-stack web application** built using **Spring Boot**, **JPA/Hibernate**, **MySQL**, **Lombok**, **Thymeleaf**, **Bootstrap**, and **CSS**, developed in **IntelliJ IDEA**. The project demonstrates a robust backend with a responsive, modern front-end interface.
 
 ## Features
 
